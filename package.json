@@ -1,0 +1,8 @@
+{
+  "name": "javascript-perf-fundamentals",
+  "author": "Matheus Torres <matheustrres.rj@gmail.com>",
+  "version": "1.0.0",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {}
+}
